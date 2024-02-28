@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/add-text-to-img/static/css/main.2aa402c6.css",
-    "main.js": "/add-text-to-img/static/js/main.cb6ad90e.js",
+    "main.css": "/add-text-to-img/static/css/main.fd995700.css",
+    "main.js": "/add-text-to-img/static/js/main.fc8fb6fa.js",
     "static/js/453.2c97a639.chunk.js": "/add-text-to-img/static/js/453.2c97a639.chunk.js",
     "static/media/moneyGod.jpg": "/add-text-to-img/static/media/moneyGod.ebb682b5f8d18b3e4f89.jpg",
     "static/media/imageCrown.jpg": "/add-text-to-img/static/media/imageCrown.cba33d66b822d94f2ea1.jpg",
     "static/media/logo.svg": "/add-text-to-img/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/add-text-to-img/index.html",
-    "main.2aa402c6.css.map": "/add-text-to-img/static/css/main.2aa402c6.css.map",
-    "main.cb6ad90e.js.map": "/add-text-to-img/static/js/main.cb6ad90e.js.map",
+    "main.fd995700.css.map": "/add-text-to-img/static/css/main.fd995700.css.map",
+    "main.fc8fb6fa.js.map": "/add-text-to-img/static/js/main.fc8fb6fa.js.map",
     "453.2c97a639.chunk.js.map": "/add-text-to-img/static/js/453.2c97a639.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aa402c6.css",
-    "static/js/main.cb6ad90e.js"
+    "static/css/main.fd995700.css",
+    "static/js/main.fc8fb6fa.js"
   ]
 }
